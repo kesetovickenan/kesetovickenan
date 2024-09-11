@@ -1,6 +1,6 @@
 # 💫 About Me:
-I'm Kenan Kesetovic, 24 years old developer
-
+I'm Kenan Kesetovic, 24 years old developer from Srebrenik, Bosnia and Herzegovina
+I am passionate about technology, in my free time I usually play video games or hang out with friends!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kesetovickenan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kenan-kesetovic) 
